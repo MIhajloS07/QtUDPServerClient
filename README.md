@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0981F7,100:41CD52&height=220&section=header&text=QtUDPServerClient&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UDP%20client%E2%80%93server%20%7C%20command%20protocol%20%7C%20Qt%20GUI%20monitoring&descAlignY=60&descSize=18" alt="QtUDPServerClient banner"/>
+<img src="assets/banner.svg" alt="QtUDPServerClient animated banner" width="900"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=0981F7&center=true&vCenter=true&width=900&lines=Qt+6+%2B+Modern+C%2B%2B+%2B+Winsock2;Lightweight+text+command+protocol+over+UDP;Live+GUI+monitoring%2C+uptime+tracking+%26+persistent+logging;Designed+to+be+small%2C+readable+and+extensible)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2500&pause=800&color=FF2E93&center=true&vCenter=true&width=900&height=40&repeat=true&lines=%3E+bind(port)+%E2%86%92+listening...;%3E+%2Fping+%E2%86%92+pong;%3E+%2Fuptime+%E2%86%92+Server+uptime%3A+123+seconds;%3E+every+command+logged+to+server.log;%3E+Qt+6+%7C+C%2B%2B+%7C+Winsock2)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,8 +14,8 @@
 ![CMake](https://img.shields.io/badge/Build-CMake%20%7C%20qmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-![Last commit](https://img.shields.io/github/last-commit/MIhajloS07/QtUDPServerClient?style=flat-square&color=0981F7)
-![Repo size](https://img.shields.io/github/repo-size/MIhajloS07/QtUDPServerClient?style=flat-square&color=41CD52)
+![Last commit](https://img.shields.io/github/last-commit/MIhajloS07/QtUDPServerClient?style=flat-square&color=FF2E93)
+![Repo size](https://img.shields.io/github/repo-size/MIhajloS07/QtUDPServerClient?style=flat-square&color=FF8A00)
 ![Stars](https://img.shields.io/github/stars/MIhajloS07/QtUDPServerClient?style=flat-square&color=f5c542)
 ![Issues](https://img.shields.io/github/issues/MIhajloS07/QtUDPServerClient?style=flat-square&color=e5534b)
 
@@ -625,6 +625,6 @@ This project is licensed under the **MIT License**. Add a `LICENSE` file to the 
 
 **If you find this project useful, consider giving it a ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41CD52,100:0981F7&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8A00,50:FF2E93,100:7B1FA2&height=70&section=footer&animation=twinkling" alt="footer"/>
 
 </div>
